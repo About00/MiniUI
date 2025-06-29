@@ -125,7 +125,7 @@ public class HUDOperator :
 ```
 
 > [!IMPORTANT]
-> If you use IEntityDataOperator<> with enableable components, they will be disabled immediately when you add an entity
+> If you use IEntityDataOperator<> with enableable components, they will be disabled immediately when first initialization start
 
 ### Listeners
 
